@@ -1,5 +1,4 @@
-<div style="display:flex; gap:5px; align-items:stretch;">
-  <div style="flex:2;">
+<div >
     <picture>
       <source
         srcset="https://github-readme-stats.vercel.app/api?username=schleifinho&show_icons=true&theme=dracula"
@@ -11,18 +10,4 @@
       />
       <img src="https://github-readme-stats.vercel.app/api?username=schleifinho&show_icons=true" alt="GitHub Stats" style="width:100%; height:auto;" />
     </picture>
-  </div>
-  <div style="flex:1;">
-    <picture>
-      <source
-        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=schleifinho&layout=donut&hide=Java&theme=dracula"
-        media="(prefers-color-scheme: dark)"
-      />
-      <source
-        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=schleifinho&layout=donut&hide=Java"
-        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-      />
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=schleifinho&layout=donut&hide=Java" alt="Top Languages" style="width:100%; height:auto;" />
-    </picture>
-  </div>
 </div>
