@@ -26,32 +26,3 @@
     </picture>
   </div>
 </div>
-
-<div style="display:flex; gap:5px; align-items:stretch;">
-  <div style="flex:1;">
-    <picture>
-      <source
-        srcset="https://github-readme-stats.vercel.app/api/pin/?username=schleifinho&repo=pubg-circle-analyzer&theme=dracula"
-        media="(prefers-color-scheme: dark)"
-      />
-      <source
-        srcset="https://github-readme-stats.vercel.app/api/pin/?username=schleifinho&repo=pubg-circle-analyzer"
-        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-      />
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=schleifinho&repo=pubg-circle-analyzer&layout=compact&langs_count=8&show_icons=true" alt="PUBG Circle Analyzer" style="width:100%; height:auto;" />
-    </picture>
-  </div>
-  <div style="flex:1;">
-    <picture>
-      <source
-        srcset="https://github-readme-stats.vercel.app/api/pin/?username=schleifinho&repo=wave-function-collapse-texture-generator&theme=dracula"
-        media="(prefers-color-scheme: dark)"
-      />
-      <source
-        srcset="https://github-readme-stats.vercel.app/api/pin/?username=schleifinho&repo=wave-function-collapse-texture-generator"
-        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-      />
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=schleifinho&repo=wave-function-collapse-texture-generator" alt="Wave Function Collapse" style="width:100%; height:auto;" />
-    </picture>
-  </div>
-</div>
